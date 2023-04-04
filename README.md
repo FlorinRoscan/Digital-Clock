@@ -1,5 +1,4 @@
 # Digital-Clock
-Digital Clock Java
 This is a simple digital clock application written in Java that displays the current time and date.
 Getting Started
 Prerequisites
