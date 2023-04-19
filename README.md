@@ -11,7 +11,6 @@ bash
 Copy code
 git clone https://github.com/FlorinRoscan/Digital-Clock.git
 Navigate to the project directory:
-bash
 Copy code
 Run the application:
 Copy code
