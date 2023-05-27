@@ -4,8 +4,6 @@ Getting Started
 Prerequisites
 To run this application, you need to have the following installed:
 Java Development Kit (JDK) 8 or later
-Git
-Installation
 Clone the repository:
 bash
 Copy code
