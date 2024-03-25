@@ -1,5 +1,4 @@
 import javafx.stage.Stage;
-
 import java.awt.Font;
 import java.awt.Color;
 import java.awt.GridLayout;
@@ -31,13 +30,11 @@ public abstract class DigitalClock {
         f.add(dayLable);
 
         f.getContentPane().setBackground(Color.black);
-
         f.setVisible(true);
     }
 
     public abstract void start(Stage primaryStage);
 }
-
 class ClockLabel extends JLabel implements ActionListener {
 
     String type;
